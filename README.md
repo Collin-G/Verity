@@ -1,5 +1,10 @@
 # Verity
 
+
+### **Important Notes**
+
+I did all of my developmment on linux. Although deployment should work fine on windows, please consider WSL if things do not work out. Also, this repo contains the flask API used for processing data and feeding it into neural networks. Our web app was created on repl.it (https://replit.com/@NainAbdi/AirBNBVerifier?v=1)
+
 ## **Deployment Instructions**
 
 ### **Install Prerequisites**
