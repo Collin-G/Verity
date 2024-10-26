@@ -8,7 +8,7 @@ Install ngrok: https://ngrok.com/download
 
 Install ffmpeg: https://www.ffmpeg.org/download.html
 
-Install prerequisites: In terminal type "pip install -r requirements.txt"
+Install python prerequisites: Open a terminal in this repo and type "pip install -r requirements.txt"
 
 
 ### **Setup ngrok to run flask api**
@@ -30,4 +30,4 @@ In the forked repl.it, navigate to /src/app/page.tsx LINE 78 and replace the "ht
 It will look something like: "https://(your stuff).ngrok-free.app/predict"
 
 
-Finally, run the app!
+Finally, run the app with the button at the top center of the repl.it page!
