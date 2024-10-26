@@ -4,8 +4,6 @@
 
 ### **Install Prerequisites**
 
-In the linux terminal:
-
 Install ngrok: https://ngrok.com/download
 
 Install ffmpeg: https://www.ffmpeg.org/download.html
