@@ -1,0 +1,11 @@
+dlib==19.24.6
+ffmpeg_python==0.2.0
+Flask==3.0.3
+Flask_Cors==5.0.0
+imageio==2.36.0
+librosa==0.10.2.post1
+moviepy==1.0.3
+numpy==2.1.2
+opencv_python==4.8.1.78
+scipy==1.14.1
+torch==1.12.1
